@@ -25,8 +25,8 @@ dependencies:
     # The example app is bundled with the plugin so we use a path dependency on
     # the parent directory to use the current plugin's version.
     path: ../
-  google_mobile_ads: ^3.0.0
-  preload_page_view: ^0.1.6
+  google_mobile_ads: ^4.0.0
+  preload_page_view: ^0.2.0
   flutter_spinkit: ^5.1.0
 
   # The following adds the Cupertino Icons font to your application.
